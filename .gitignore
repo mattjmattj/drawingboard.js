@@ -8,3 +8,4 @@
 node_modules
 sftp-config.json
 components
+bower_components
